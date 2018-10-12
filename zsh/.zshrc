@@ -97,10 +97,3 @@ export GOROOT=/usr/local/go
 export GOPATH=/Users/agch/go
 export GOBIN=$GOPATH/bin
 export PATH=$GOBIN:/opt/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
-export OVPN_DATA="ovpn-data-gch"
-
-export EVENT_NOKQUEUE=1
-export CURL_CA_BUNDLE=/Users/agch/go/src/fhyx/kinema-client/Sync3/ca.crt
-export TR_CURL_SSL_CERT=/Users/agch/go/src/fhyx/kinema-client/Sync3/cert.pem
-export TR_CURL_SSL_KEY=/Users/agch/go/src/fhyx/kinema-client/Sync3/key.pem
-export KC_TMD_ADDR="127.0.0.1:9091"
